@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.dell.toadext.oracle.nui.viewer.detail.OraQueryResultViewer">
+		<section name="fa28b8d0-8eb1-43a5-8eda-c93bb0db5078#COUNTRY">
+			<item value="" key="where"/>
+			<list key="whereHistory">
+			</list>
+			<list key="hidden">
+			</list>
+			<list key="order">
+			</list>
+		</section>
+		<section name="fa28b8d0-8eb1-43a5-8eda-c93bb0db5078#CITY">
+		</section>
+	</section>
+</section>
